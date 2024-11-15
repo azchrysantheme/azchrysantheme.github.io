@@ -14,7 +14,7 @@ title: "Bonjour ou Bonsoir! - Le coin de Chrysanthème."
 🌀 **Orientation :** Aroace (et très lesbienne)  
 🌍 **Ethnicité :** Franco-algérienne  
 ⚧ **Genre :** Trans (al/elle/il)  
-🎓 **Éducation :** Etudiant.e en ingénieurie  (Bac +1, pour l'instant…)
+🎓 **Études :** Etudiant.e en ingénieurie  (Bac +1, pour l'instant…)
 
 ✨ Bienvenue dans mon petit coin du web – un mélange chaotique de mes pensées aléatoires et de mes projets originaux ! Pourquoi ? Parce que, franchement, c'est comme ça ! 😜
 
