@@ -16,11 +16,11 @@ Maintenant, parlons des gens que je préfère vraiment éviter. Vous savez, les 
 En gros, ne interagissez pas avec moi si : vous êtes raciste, homophobe, transphobe, misogyne, TERF, proship, aphobe, exclusionniste, ou toute autre personne qui se proclame "problématique." 🚫 Je préfère garder ma créativité pour les bonnes vibes ! Allez, on s’amuse ensemble, mais avec des valeurs positives. Parce que franchement, qui a besoin de drame alors que le monde est déjà assez fou comme ça ? 😊
 
 🛠 Technologies & outils :  
-- **OS** : Linux | Windows  | MacOS
-- **Éditeurs** : VS Code | Sublime Text | Atom  
-- **Langages de programmation** : HTML | CSS | JavaScript | Pyhton | PHP 
+- **OS** : Linux, Windows & MacOS
+- **Éditeurs** : VS Code,  Sublime Text & Atom  
+- **Langages de programmation** : HTML,  CSS,  JavaScript, Pyhton & PHP 
 - **Bases de données** : MySQL
-- **Logiciels de dessin et d'animations** : Clip Studio Paint (EX) | Ibispaint | Krita
+- **Logiciels de dessin et d'animations** : Clip Studio Paint (EX),  Ibispaint,  Krita & FireAlpaca
 
 🌍 Langues :
 - **Français** : Natif.ve
