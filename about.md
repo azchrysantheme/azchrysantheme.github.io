@@ -15,4 +15,21 @@ Maintenant, parlons des gens que je préfère vraiment éviter. Vous savez, les 
 
 En gros, ne interagissez pas avec moi si : vous êtes raciste, homophobe, transphobe, misogyne, TERF, proship, aphobe, exclusionniste, ou toute autre personne qui se proclame "problématique." 🚫 Je préfère garder ma créativité pour les bonnes vibes ! Allez, on s’amuse ensemble, mais avec des valeurs positives. Parce que franchement, qui a besoin de drame alors que le monde est déjà assez fou comme ça ? 😊
 
+🛠 Technologies & outils :  
+- **OS** : Linux | Windows  | MacOS
+- **Éditeurs** : VS Code | Sublime Text | Atom  
+- **Langages de programmation** : HTML | CSS | JavaScript | Pyhton | PHP 
+- **Bases de données** : MySQL
+- **Logiciels de dessin et d'animations** : Clip Studio Paint (EX) | Ibispaint | Krita
+
+🌍 Langues :
+- **Français** : Natif.ve
+- **Anglais** : Lu, écrit et parlé - B2+
+- **Espagnol** : Lu, écrit et parlé - B1+
+- **Arabe** : En apprentissage
+- **Langue des signes - Français** : En apprentissage
+
+🗨️ Si tu veux discuter ou échanger des idées, n’hésite pas à me contacter sur Discord (azchrysantheme) ou par mail : azra.marwe@mailfence.com ! Je serais ravi.e de discuter de n'importe quel sujet ou de partager des conseils !  
+🎈 N'hésite pas à me poser des questions sur mes projets ou sur n'importe quel sujet qui t'intéresse. Je suis ici pour aider et apprendre avec vous !  
+
 ![alt text](https://i.ytimg.com/vi/MGo-5xe7Ws8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBjFGYr9tVIT6r5vLKjWE5-N_bwzQ)
