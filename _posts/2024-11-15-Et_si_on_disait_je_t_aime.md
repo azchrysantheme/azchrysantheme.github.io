@@ -4,8 +4,6 @@ title: "Et si on disait 'je t'aime'"
 categories: [Poèmes]
 ---
 
-# Et si on disait "je t'aime"
-
 Et si je te disais, "je t'aime"
 
 Le monde ne me verrait pas sous un autre jour en prononçant ces mots.
